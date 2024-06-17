@@ -28,6 +28,8 @@ public class seprateNumber {
             System.out.println("positive :" + positive);
             System.out.println("negative : " + negative);
             System.out.println("zeroes : " + zeroes);
-
     }
 }
+
+
+//@harshmeena0645
