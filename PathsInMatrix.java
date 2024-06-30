@@ -15,9 +15,12 @@ public class PathsInMatrix{
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter no. of row : ");
         int n = sc.nextInt();        //Matrix n*m
+        System.out.print("Enter no. of Colmns : ");
         int m = sc.nextInt();
         int totalPaths = paths(0,0,n,m);
+        System.out.print("Total Possible wave : ");
         System.out.println(totalPaths);
     }
 }
