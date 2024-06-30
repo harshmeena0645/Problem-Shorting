@@ -15,9 +15,12 @@ public class PathsInMatrix{
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        int n = sc.nextInt();        //Matrix n*m
         int m = sc.nextInt();
         int totalPaths = paths(0,0,n,m);
         System.out.println(totalPaths);
     }
 }
+
+
+//@harshmeena0645
