@@ -1,4 +1,3 @@
-# Problem-Solving
 # 🚀 Problem-Solving Repository
 
 Welcome to the **Problem-Solving** repository! 🏆  
